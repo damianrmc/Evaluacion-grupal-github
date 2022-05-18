@@ -1,10 +1,39 @@
+*{
+  font-family: 'Akshar', sans-serif;
+  font-weight: 530;
+}
 .header {
   color: #36A0FF;
   font-size: 30px;
   padding: 10px;
 }
+
+.head-h1{
+  padding-block: 30px;
+}
+
 .container{
   text-align: center;
+}
+.parrafos > h2{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 35px;
+
+}
+.parrafos > p{
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.outfits{
+  margin-bottom: 30px;
+}
+
+.col_final > .p_1{
+  margin-top: 5px;
+  font-size: 18px;
+
 }
 
 .contactanos {
